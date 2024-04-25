@@ -1,0 +1,16 @@
+{
+  "name": "custom_metrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "p-ratelimit": "^1.0.1"
+  },
+  "devDependencies": {
+    "rbql": "^0.27.0"
+  }
+}
